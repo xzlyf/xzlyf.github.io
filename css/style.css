@@ -1,0 +1,128 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.shape {
+	margin: 20px auto;
+	width: 1000px;
+	height: 40px;
+	background-color: #8BC34A;
+	list-style: none;
+}
+.shape li {
+	width: 25%;
+	text-align: center;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	float: left;
+}
+.shape li a {
+	font-size: 18px;
+	display: block;
+	width: 100%;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+}
+.shape li:hover {
+	background-color: #FFEB3B;
+}
+.top_logo {
+	margin-top: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 1000px;
+}
+.the_end{
+	width: 1000px;
+	margin-top: 30px;
+	margin-right: auto;
+	margin-left: auto;	
+	padding-bottom:30px;
+	
+}
+.the_end h6 {
+	text-align: center;
+	margin-top:10px;
+}
+
+.content {
+	background-color: #DCEDC8;
+	height: 400px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+.content_2 {
+	background-color: #FFF;
+	width: 1000px;
+	margin-top: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.content_2 h1 {
+	color: #689F38;
+	margin: 20px;
+}
+.app_list{
+	width: 1000px;
+	height: auto;
+}
+.app_icon {
+	padding: 100px;
+	float: left;
+}
+.app_icon img {
+	height: 100px;
+	width: 100px;
+}
+.app_conten {
+	margin-top: 50px;
+	width: 300px;
+	float: left;
+}
+.app_download{
+	float: right;
+	text-align: center;
+	padding: 100px;
+
+}
+.app_download_tips {
+	line-height: 60px;
+	font-size: 16px;
+
+}
+
+.link_app{
+	width: 100px;
+	height: 30px;
+	color: #ffffff;
+	background-color: #8BC34A;
+	text-decoration: none;
+	text-align: center;
+	border-radius: 100px;
+	padding: 10px;
+	box-shadow: 2px 2px 2px 2px #3D3D3D;
+}
+
+.clear{
+	clear: both;
+}
+.contact {
+	background-color: #FFF;
+	height: 300px;
+	width: 1000px;
+	text-align: center;
+	line-height: 20px;
+	border: 1px solid #8BC34A;
+	margin-right: auto;
+	margin-left: auto;
+}
+.about {
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
