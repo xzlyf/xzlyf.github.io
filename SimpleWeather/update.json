@@ -1,0 +1,10 @@
+{
+    "value": 1,
+    "msg": "请求成功",
+    "data": {
+        "level": 0,
+        "name": "0.2",
+        "code": 2,
+        "link": "http://xzlyf.club/SimpleWeather/apk/SW.apk"
+    }
+}
