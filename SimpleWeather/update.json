@@ -3,9 +3,9 @@
     "msg": "请求成功",
     "data": {
         "level": 0,
-        "name": "0.2",
+        "name": "0.2-beta",
         "code": 2,
-        "msg": "更新测试更新测试更新测试更新测试更新测试更新测试更新测试更新",
+        "msg": "1.测试版2.前端功能基本实现3.后端正在学习4.测试6.全栈工程师",
         "link": "http://xzlyf.club/SimpleWeather/apk/SW.apk"
     }
 }
