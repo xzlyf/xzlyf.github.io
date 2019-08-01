@@ -1,9 +1,10 @@
 ﻿<DayWallpaper>
-			<level>0</level>
-			<name>1.5.8</name>
-			<code>16</code>
+			<level>1</level>
+			<name>6.6.6</name>
+			<code>66</code>
 			<msg>
-1.修复安卓6.0以下无法跳过启动页
+此版本不在更新，请安装每日壁纸2.0版本
+或前往www.xzlyf.club了解最新情况
 </msg>	
 			<link>https://github.com/xzlyf/xzlyf.github.io/raw/master/DayWallpaperUpdate/apk/DayWallpaper.apk</link>
 </DayWallpaper>
