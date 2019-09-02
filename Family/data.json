@@ -1,0 +1,27 @@
+ {
+            "total": 4,
+            "msg": "正常",
+            "code": 1,
+            "DATA": [
+            {
+                "icon": "http://www.xzlyf.club/Family/icon/jlw.png",
+                "name": "捡漏王",
+                "download": null
+            },
+            {
+                "icon": "http://www.xzlyf.club/Family/icon/qqjz.png",
+                "name": "轻巧记账",
+                "download": null
+            },
+            {
+                "icon": "http://www.xzlyf.club/Family/icon/mrbz.png",
+                "name": "每日壁纸",
+                "download": null
+            },            
+            {
+                "icon": "http://www.xzlyf.club/Family/icon/jjtq.png",
+                "name": "极简天气",
+                "download": null
+            }
+        ]
+    }
